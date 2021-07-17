@@ -1,0 +1,2 @@
+You can set the credentials of Facebook and Wallethub from the file located at:- D:\wallethub\SeleniumAutomation\src\test\resources\Properties\Config.properties
+Run the TestNg.xml file
